@@ -17,7 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Alyssa.
+My name is Alyssa Vanerelli and I am a PhD student in the Center for Computational and Integrative Biology program at Rutgers University Camden, working with [Dr. Anthony 
+Geneva](https://genevalab.io/).
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
