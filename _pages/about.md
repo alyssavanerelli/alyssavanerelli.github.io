@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: PhD student at Rutgers University Camden
+subtitle: PhD student at Rutgers University Camden | she/her
 
 profile:
   align: right
