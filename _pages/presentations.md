@@ -16,7 +16,7 @@ speak to my graduating class at the May 2021 commencement ceremony. My speech st
 ---
 
 This is my [PechaKucha](https://pechakuchaavl.org/what-is-pecha-kucha) presentation for my public speaking final competition. A PechaKucha is a special type of presentation where the presenter has 
-20 slides that automatically advance after 20 seconds. For my speech, I chose to speak about Southern Applachain Spruce-Fir forest conservation and I tied for first place. This was such a fun 
+20 slides that automatically advance after 20 seconds. For my speech, I chose to talk about Southern Appalachian Spruce-Fir forest conservation and I tied for first place! This was such a fun 
 opportunity to try out this presentation style and share information about this wonderful mountain range that I call home!
 
 {% include youtubePlayer.html id=page.sprucefiryoutubeId %}
