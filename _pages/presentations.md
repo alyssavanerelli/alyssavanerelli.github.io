@@ -1,6 +1,6 @@
 ---
 layout: page
-title: presentaions
+title: presentations
 permalink: /presentations/
 description: Presentations that I have done.
 nav: true
