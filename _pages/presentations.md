@@ -11,3 +11,7 @@ I am extremely honored to receive the [Manly E. Wright Valedictory award](https:
 speak to my graduating class at the May 2021 commencement ceremony.
 
 {% include youtubePlayer.html id=page.commyoutubeId %}
+
+
+
+{% include youtubePlayer.html id=DD115L9WOVU %}
