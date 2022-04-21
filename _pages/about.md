@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Joint Health Sciences Center</p>
     <p>Center for Computational and Integrative Biology</p>
-    <p>Rutgers University Camden</p>
+    <p>Rutgers University</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
