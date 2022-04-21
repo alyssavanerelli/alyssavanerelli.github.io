@@ -43,9 +43,9 @@
                 </a>
               </li>
               <!-- Curriculum Vitae -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+              <li class="nav-item {% if page.url contains 'cv' %}active{% endif %}">
                 <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">cv</a> 
-                  {%- if page.title == "blog" -%}
+                  {%- if page.title == "cv" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
