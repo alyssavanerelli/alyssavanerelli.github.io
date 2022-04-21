@@ -9,11 +9,14 @@ sprucefiryoutubeId: DD115L9WOVU
 ---
 
 I am extremely honored to receive the [Manly E. Wright Valedictory award](https://www.unca.edu/events-and-news/commencement/manly-e-wright-award/) from UNC Asheville. I was given the opportunity to 
-speak to my graduating class at the May 2021 commencement ceremony.
+speak to my graduating class at the May 2021 commencement ceremony. My speech starts at 28:22.
 
 {% include youtubePlayer.html id=page.commyoutubeId %}
 
+---
 
-Pecha Kucha
+This is my [PechaKucha](https://pechakuchaavl.org/what-is-pecha-kucha) presentation for my public speaking final competition. A PechaKucha is a special type of presentation where the presenter has 
+20 slides that automatically advance after 20 seconds. For my speech, I chose to speak about Southern Applachain Spruce-Fir forest conservation and I tied for first place. This was such a fun 
+opportunity to try out this presentation style and share information about this wonderful mountain range that I call home!
 
 {% include youtubePlayer.html id=page.sprucefiryoutubeId %}
