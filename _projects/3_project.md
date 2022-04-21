@@ -7,8 +7,8 @@ importance: 3
 category: work
 ---
 
-This is the research that I completed for my undergradute <i class="fas fa-file"></i> <a class="link" href="{{ '/assets/pdf/thesis_paper.pdf' | prepend: site.baseurl | prepend: site.url 
-}}">thesis</a> at UNC Asheville in the [Reynolds Lab](https://reynoldslab.wp.unca.edu/). 
+This is the research that I completed for my <i class="fas fa-file"></i> <a class="link" href="{{ '/assets/pdf/thesis_paper.pdf' | prepend: site.baseurl | prepend: site.url 
+}}">undergraduate thesis</a> at UNC Asheville in the [Reynolds Lab](https://reynoldslab.wp.unca.edu/). 
 
 
 
