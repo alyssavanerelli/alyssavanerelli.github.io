@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /present/
+permalink: /presentations/
 title: presentations
-description: Materials for courses you taught. Replace this text with your description.
+description: Presentations I have done.
 nav: true
+commyoutubeId: DD115L9WOVU
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am extremely honored to receive the [Manly E. Wright Valedictory award](https://www.unca.edu/events-and-news/commencement/manly-e-wright-award/) from UNC Asheville. I was given the opportunity to 
+speak to my graduating class at the May 2021 commencement ceremony.
 
-Organize your courses by years, topics, or universities, however you like!
+{% include youtubePlayer.html id=page.commyoutubeId %}
