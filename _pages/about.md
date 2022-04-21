@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at Rutgers University Camden
 
 profile:
   align: right
