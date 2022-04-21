@@ -2,7 +2,7 @@
 layout: page
 title: boa mitogenomes
 description: Assembling mitochondrial genomes for an entire genus of Caribbean boas
-img: assets/img/7.jpg
+img: assets/img/argentum_pic.jpeg
 importance: 3
 category: work
 ---
