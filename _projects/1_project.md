@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _Anolis grahami_ genome
+title: <em>Anolis grahami</em> genome
 description: Assembling and annotating a high-quality reference genome for the Jamaican turquoise anole
 img: assets/img/a_grahami.jpeg
 importance: 1
