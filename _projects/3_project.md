@@ -4,7 +4,7 @@ title: boa mitogenomes
 description: Assembling mitochondrial genomes for an entire genus of Caribbean boas
 img: assets/img/argentum_pic.jpeg
 importance: 3
-category: work
+category: past research
 ---
 
 This is the research that I completed for my <i class="fas fa-file"></i> <a class="link" href="{{ '/assets/pdf/thesis_paper.pdf' | prepend: site.baseurl | prepend: site.url 
