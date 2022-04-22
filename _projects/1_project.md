@@ -7,6 +7,15 @@ importance: 1
 category: current research
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/a_grahami.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    _Anolis grahami_. Photo from [wikipedia](https://en.wikipedia.org/wiki/Anolis_grahami)
+</div>
+
 Highly complete and contiguous genome assemblies are necessary to answer many evolutionary questions. While _Anolis_ lizards have been the focus of decades of ecological and evolutionary research, 
 only a few of the 400+ species have high-quality genome assemblies available. 
 
