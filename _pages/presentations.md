@@ -12,7 +12,7 @@ sprucefiryoutubeId: DD115L9WOVU
 _May 2021_
 
 I am extremely honored to receive the [Manly E. Wright Valedictory award](https://www.unca.edu/events-and-news/commencement/manly-e-wright-award/) from UNC Asheville. I was given the opportunity to 
-speak to my graduating class at the May 2021 commencement ceremony. My speech starts at 28:22.
+speak to my graduating class at the May 2021 commencement ceremony (my speech starts at 28:22).
 
 {% include youtubePlayer.html id=page.commyoutubeId %}
 
