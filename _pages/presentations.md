@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: presentations
-description: Presentations I have done.
+description: presentations and speeches that i have given
 nav: true
 commyoutubeId: jY0vLxy5zrY?t=1703
 sprucefiryoutubeId: DD115L9WOVU
