@@ -38,7 +38,8 @@ remaining individuals (Figure 1).
     </div>
 </div>
 <div class="caption">
-    <b>Figure 1 and 2.</b> <em>Figure 1</em>.IUCN Red List status of the Chilabothrus species analyzed in this study. Made with R. <em>Figure 2</em>. Representative circular mitochondrial genome for Chilabothrus snakes.
+    <b>Figure 1 and 2.</b> <em>Figure 1</em>. IUCN Red List status of the <em>Chilabothrus</em> species analyzed in this study. Made with R. <em>Figure 2</em>. Representative circular mitochondrial 
+genome for Chilabothrus snakes.
 </div>
 
 Mitochondrial DNA has long been a useful tool in phylogenetic studies[^6], with most studies focusing on sequencing one or two protein-coding regions. Since topologies tend to differ between studies 
@@ -51,7 +52,28 @@ closely and distantly related species as well as for determining important popul
 threatened genus, such as _Chilabothrus_, will provide crucial information that can be used in studies focusing on their evolutionary relationships as well as those investigating population 
 structure and diversity. 
 
-We performed two different phylogenetic analyses.
+We performed a series of protein-coding molecular phylogenies of the entire genus were generated using Bayesian and Maximum Likelihood methods. My maximum-likelihood phylogeny produced a topology 
+with strong support at most nodes (Figure 4). In concordance with previous studies[^8], I found that the newly-discovered _C. argentum_ is sister to recently rediscovered _C. schwartzi_ (BS=100; 
+Figure 3). My topology shows that _C. exsul_ and _C. strigilatus_ are sister to one another with strong support (BS=99; Figure 3). This differs from previous topological arrangements using only the 
+mitochondrial CYTB locus (~1100 bp) showing _C. exsul_ more closely related to _C. striatus_ and the clade containing _C. argentum_ and _C. schwartzi_[^8]. All other relationships agree with 
+previously presented phylogenetic analyses. My maximum clade credibility tree produced the same topology as the maximum-likelihood tree (Figure 4). In addition to confirming the relationships among 
+these taxa, this analysis presents divergence times of these species.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ML_tree.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MCC_tree.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <b>Figure 3 and 4.</b> <em>Figure 3</em>. Maximum-likelihood phylogeny of 13 <em>Chilabothrus</em> species and 3 species from the genus <em>Boa</em>. Phylogeny was generated using the RAxML 
+algorithm in GENEIOUS. Numbers at nodes represent bootstrap support. <em>Figure 4</em>. Time-calibrated coalescent tree of aligned concatenated protein-coding loci for all 13 <em>Chilabothrus</em> 
+species. Numbers at nodes represent posterior probabilities times, estimated by constraining the root node of <em>Chilabothrus</em> using a normal prior with a mean of 21.7 Mya and a standard 
+deviation of 1.8 Mya. Legend units are million years ago.
+</div>
+
 
 ### References
 
@@ -62,3 +84,7 @@ We performed two different phylogenetic analyses.
 [^5]: Reynolds RG, Henderson RW, Díaz LM, Rodriguez-Cabrera TR, Puente-Rolón AR. In Press. Boas of the West Indies: Evolution, natural history, and conservation. Comstock Publishing Associates, Ithaca, NY.
 [^6]: Raposo do Amaral F, Neves LG, Resende MFR, Jr, Mobili F, Miyaki CY, Pellegrino KCM, Biondo C. 2015. Ultraconserved element sequencing as a low-cost source of complete mitochondrial genomes and microsatellite markers in non-model amniotes. PLoS ONE. 10:e0138446.
 [^7]: Dong S, Kumazawa Y. 2005. Complete mitochondrial DNA sequences of six snakes: phylogenetic relationships and molecular evolution of genomic features. J Mol Evol. 61:12–22.
+[^8]: Reynolds RG, Puente-Rolón AR, Burgess JP, Baker BO. 2018. Rediscovery and a redescription of the Crooked-Acklins boa, Chilabothrus schwartzi (buden, 1975), comb. nov. Breviora. 558:1-16.
+
+
+
