@@ -1,7 +1,7 @@
 ---
 layout: page
 title: reference genome assembly
-description: Assembling and annotating a high-quality reference genome for the Jamaican turquoise anole, <em>Anolis grahami</em>
+description: Assembling and annotating a high-quality reference genome for the Jamaican turquoise anole, <em>Anolis grahami</em>.
 img: assets/img/a_grahami.jpeg
 importance: 1
 category: current research
@@ -13,7 +13,7 @@ category: current research
     </div>
 </div>
 <div class="caption">
-    <em>Anolis grahami</em>. Photo from <a> href="https://en.wikipedia.org/wiki/Anolis_grahami">wikipedia</a>
+    <em>Anolis grahami</em>. Photo from wikipedia.
 </div>
 
 Highly complete and contiguous genome assemblies are necessary to answer many evolutionary questions. While _Anolis_ lizards have been the focus of decades of ecological and evolutionary research, 
