@@ -25,8 +25,8 @@ Read the full paper <i class="fas fa-file"></i> <a class="link" href="{{ '/asset
 R. Graham Reynolds. 
 </div>
 
-_Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these species are newly described or recently
-elevated species[^1]. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
+_Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these are newly described or recently
+elevated[^1]. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
 genetic diversity[^2],[^3],[^4],[^5]. Two species are listed as endangered on the IUCN Red List, while the newly-discovered _C. argentum_ is critically endangered and represented by as few as 135 
 remaining individuals (Figure 1).
 
@@ -48,14 +48,13 @@ using few versus many genes, we generated complete protein-coding mitogenomes fo
 and sequencing to assemble and annotate entire mitogenomes. These mitochondrial genomes are identical in composition and gene order to previously described boid snakes with 13 protein-coding genes, 
 22 tRNAs, 2 rRNAs, 2 control regions (CR1 and CR2), and an origin of the light strand replication (Figure 2)[^7].
 
-Sequencing mitogenomes for threatened and endangered species is important in aiding conservation efforts by providing genomic resources. These data can be useful for inferring relationships among 
-closely and distantly related species as well as for determining important population information such as genetic diversity or population structure. Providing these genetic resources for a 
-threatened genus, such as _Chilabothrus_, will provide crucial information that can be used in studies focusing on their evolutionary relationships as well as those investigating population 
-structure and diversity. 
+Sequencing mitogenomes for threatened and endangered species is important in aiding conservation efforts by providing genomic resources. Providing these genetic resources for a threatened genus, 
+such as _Chilabothrus_, will provide crucial information that can be used in studies focusing on their evolutionary relationships as well as those investigating population structure and genetic 
+diversity. 
 
-We performed a series of protein-coding molecular phylogenies of the entire genus were generated using Bayesian and Maximum Likelihood methods. My maximum-likelihood phylogeny produced a topology 
-with strong support at most nodes (Figure 4). In concordance with previous studies[^8], I found that the newly-discovered _C. argentum_ is sister to recently rediscovered _C. schwartzi_ (BS=100; 
-Figure 3). My topology shows that _C. exsul_ and _C. strigilatus_ are sister to one another with strong support (BS=99; Figure 3). This differs from previous topological arrangements using only the 
+We generated a series of protein-coding molecular phylogenies of the entire genus were generated using Bayesian and Maximum Likelihood methods. The maximum-likelihood phylogeny produced a topology 
+with strong support at most nodes (Figure 4). In concordance with previous studies[^8], we found that the newly-discovered _C. argentum_ is sister to recently rediscovered _C. schwartzi_ (BS=100; 
+Figure 3). The topology shows that _C. exsul_ and _C. strigilatus_ are sister to one another with strong support (BS=99; Figure 3). This differs from previous topological arrangements using only the 
 mitochondrial CYTB locus (~1100 bp) showing _C. exsul_ more closely related to _C. striatus_ and the clade containing _C. argentum_ and _C. schwartzi_[^8]. All other relationships agree with 
 previously presented phylogenetic analyses. 
 
@@ -69,7 +68,7 @@ previously presented phylogenetic analyses.
 algorithm in GENEIOUS. Numbers at nodes represent bootstrap support.
 </div>
 
-My maximum clade credibility tree produced the same topology as the maximum-likelihood tree (Figure 4). In addition to confirming the relationships among these taxa, this analysis presents 
+The maximum clade credibility tree produced the same topology as the maximum-likelihood tree (Figure 4). In addition to confirming the relationships among these taxa, this analysis presents 
 divergence times of these species. We can use this analysis to estimate times of colonization events from Hispaniola. The first colonization event happened when _C. chrysogaster_ colonized the Turks 
 and Caicos around 5 million years ago. The second event happened around 3.5 to 4 million years ago when the clade containing _C. schwartzi_, _C. argentum_, _C. exsul_, and _C. strigilatus_ colonized 
 the Bahamas.
@@ -85,7 +84,7 @@ estimated by constraining the root node of <em>Chilabothrus</em> using a normal 
 </div> 
 
 This is the first study to generate mitogenomes for an entire genus of boas. Being able to easily provide genomic resources for these threatened and endangered boa species is crucial for their 
-conservation. Unlike previous studies that have used one protein-coding region, the complete protein-coding mitogenomes have given a strongly supported topology for the Chilabothrus phylogeny. My 
+conservation. Unlike previous studies that used one protein-coding region, the complete protein-coding mitogenomes have given a strongly supported topology for the _Chilabothrus_ phylogeny. Our 
 phylogenetic analyses support most previously published relationships of neotropical boids, only differing in topology in terms of the relationships of _C. exsul_, _C. strigilatus_, and _C. 
 striatus_.
 
