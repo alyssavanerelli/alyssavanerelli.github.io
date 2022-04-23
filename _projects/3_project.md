@@ -21,7 +21,9 @@ R. Graham Reynolds.
 </div>
 
 _Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these species are newly described or recently
-elevated species<d-footnote>Reynolds RG, Niemiller ML, Hedges SB, Dornburg A, Puente-Rolón AR, Revell LJ. 2013. Molecular phylogeny and historical biogeography of West Indian boid snakes. Mol. 
+elevated species[^1: Reynolds RG, Niemiller ML, Hedges SB, Dornburg A, Puente-Rolón AR, Revell LJ. 2013. Molecular phylogeny and historical biogeography of West Indian boid snakes. Mol. 68:461-470]
+
+<d-footnote>Reynolds RG, Niemiller ML, Hedges SB, Dornburg A, Puente-Rolón AR, Revell LJ. 2013. Molecular phylogeny and historical biogeography of West Indian boid snakes. Mol. 
 68:461-470.</d-footnote>. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
 genetic diversity<d-footnote>Reynolds RG, Puente-Rolón AR, Geneva AJ, Aviles-Rodriguez KJ, Herrmann NC. 2016. Discovery of a
 remarkable new boa from the Conception Island Bank, Bahamas. Breviora. 549:1-19.</d-footnote>.
