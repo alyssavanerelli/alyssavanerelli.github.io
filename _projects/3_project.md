@@ -27,7 +27,7 @@ R. Graham Reynolds.
 _Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these species are newly described or recently
 elevated species[^1]. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
 genetic diversity[^2],[^3],[^4],[^5]. Two species are listed as endangered on the IUCN Red List, while the newly-discovered _C. argentum_ is critically endangered and represented by as few as 135 
-remaining individuals (Figure 1,2).
+remaining individuals (Figure 1).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,7 +41,17 @@ remaining individuals (Figure 1,2).
     <b>Figure 1 and 2.</b> <em>Figure 1</em>.IUCN Red List status of the Chilabothrus species analyzed in this study. Made with R. <em>Figure 2</em>. Representative circular mitochondrial genome for Chilabothrus snakes.
 </div>
 
+Mitochondrial DNA has long been a useful tool in phylogenetic studies[^6], with most studies focusing on sequencing one or two protein-coding regions. Since topologies tend to differ between studies 
+using few versus many genes, we generated complete protein-coding mitogenomes for all _Chilabothrus_ species (Figure 2). We used mitochondrial by-catch reads from ultraconserved elements enrichment 
+and sequencing to assemble and annotate entire mitogenomes. These mitochondrial genomes are identical in composition and gene order to previously described boid snakes with 13 protein-coding genes, 
+22 tRNAs, 2 rRNAs, 2 control regions (CR1 and CR2), and an origin of the light strand replication (Figure 2)[^7].
 
+Sequencing mitogenomes for threatened and endangered species is important in aiding conservation efforts by providing genomic resources. These data can be useful for inferring relationships among 
+closely and distantly related species as well as for determining important population information such as genetic diversity or population structure. Providing these genetic resources for a 
+threatened genus, such as _Chilabothrus_, will provide crucial information that can be used in studies focusing on their evolutionary relationships as well as those investigating population 
+structure and diversity. 
+
+We performed two different phylogenetic analyses.
 
 ### References
 
@@ -50,3 +60,5 @@ remaining individuals (Figure 1,2).
 [^3]: Reynolds RG, Gerber GP. 2012. Ecology and conservation of the Turks Island boa (Epicrates chrysogaster chrysogaster: Squamata: Boidae) on Big Ambergris Cay. J Herpetol. 46(4):578-586.
 [^4]: Reynolds RG, Puente-Rolón AR, Platenberg R, Tyler RK, Tolson PJ, Revell LJ. 2015. Large divergence and low diversity suggest genetically informed conservation strategies for the endangered Virgin Islands Boa (Chilabothrus monensis) Glob Ecol Conserv. 3:487-502.
 [^5]: Reynolds RG, Henderson RW, Díaz LM, Rodriguez-Cabrera TR, Puente-Rolón AR. In Press. Boas of the West Indies: Evolution, natural history, and conservation. Comstock Publishing Associates, Ithaca, NY.
+[^6]: Raposo do Amaral F, Neves LG, Resende MFR, Jr, Mobili F, Miyaki CY, Pellegrino KCM, Biondo C. 2015. Ultraconserved element sequencing as a low-cost source of complete mitochondrial genomes and microsatellite markers in non-model amniotes. PLoS ONE. 10:e0138446.
+[^7]: Dong S, Kumazawa Y. 2005. Complete mitochondrial DNA sequences of six snakes: phylogenetic relationships and molecular evolution of genomic features. J Mol Evol. 61:12–22.
