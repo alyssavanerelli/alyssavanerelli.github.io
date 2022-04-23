@@ -56,24 +56,37 @@ We performed a series of protein-coding molecular phylogenies of the entire genu
 with strong support at most nodes (Figure 4). In concordance with previous studies[^8], I found that the newly-discovered _C. argentum_ is sister to recently rediscovered _C. schwartzi_ (BS=100; 
 Figure 3). My topology shows that _C. exsul_ and _C. strigilatus_ are sister to one another with strong support (BS=99; Figure 3). This differs from previous topological arrangements using only the 
 mitochondrial CYTB locus (~1100 bp) showing _C. exsul_ more closely related to _C. striatus_ and the clade containing _C. argentum_ and _C. schwartzi_[^8]. All other relationships agree with 
-previously presented phylogenetic analyses. My maximum clade credibility tree produced the same topology as the maximum-likelihood tree (Figure 4). In addition to confirming the relationships among 
-these taxa, this analysis presents divergence times of these species.
+previously presented phylogenetic analyses. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ML_tree.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    <b>Figure 3.</b> Maximum-likelihood phylogeny of 13 <em>Chilabothrus</em> species and 3 species from the genus <em>Boa</em>. Phylogeny was generated using the RAxML 
+algorithm in GENEIOUS. Numbers at nodes represent bootstrap support.
+</div>
+
+My maximum clade credibility tree produced the same topology as the maximum-likelihood tree (Figure 4). In addition to confirming the relationships among these taxa, this analysis presents 
+divergence times of these species. We can use this analysis to estimate times of colonization events from Hispaniola. The first colonization event happened when _C. chrysogaster_ colonized the Turks 
+and Caicos around 5 million years ago. The second event happened around 3.5 to 4 million years ago when the clade containing _C. schwartzi_, _C. argentum_, _C. exsul_, and _C. strigilatus_ colonized 
+the Bahamas.
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/MCC_tree.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <b>Figure 3 and 4.</b> <em>Figure 3</em>. Maximum-likelihood phylogeny of 13 <em>Chilabothrus</em> species and 3 species from the genus <em>Boa</em>. Phylogeny was generated using the RAxML 
-algorithm in GENEIOUS. Numbers at nodes represent bootstrap support. <em>Figure 4</em>. Time-calibrated coalescent tree of aligned concatenated protein-coding loci for all 13 <em>Chilabothrus</em> 
-species. Numbers at nodes represent posterior probabilities times, estimated by constraining the root node of <em>Chilabothrus</em> using a normal prior with a mean of 21.7 Mya and a standard 
-deviation of 1.8 Mya. Legend units are million years ago.
-</div>
+    <b>Figure 4.</b> Time-calibrated coalescent tree of aligned concatenated protein-coding loci for all 13 <em>Chilabothrus</em> species. Numbers at nodes represent posterior probabilities times, 
+estimated by constraining the root node of <em>Chilabothrus</em> using a normal prior with a mean of 21.7 Mya and a standard deviation of 1.8 Mya. Legend units are million years ago.
+</div> 
 
+This is the first study to generate mitogenomes for an entire genus of boas. Being able to easily provide genomic resources for these threatened and endangered boa species is crucial for their 
+conservation. Unlike previous studies that have used one protein-coding region, the complete protein-coding mitogenomes have given a strongly supported topology for the Chilabothrus phylogeny. My 
+phylogenetic analyses support most previously published relationships of neotropical boids, only differing in topology in terms of the relationships of _C. exsul_, _C. strigilatus_, and _C. 
+striatus_.
 
 ### References
 
