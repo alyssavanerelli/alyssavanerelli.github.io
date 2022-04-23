@@ -27,7 +27,8 @@ R. Graham Reynolds.
 
 _Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these are newly described or recently
 elevated[^1]. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
-genetic diversity[^2],[^3],[^4],[^5]. Two species are listed as endangered on the IUCN Red List, while the newly-discovered _C. argentum_ is critically endangered and represented by as few as 135 
+genetic diversity[^2]<sup>,</sup>[^3],[^4],[^5]. Two species are listed as endangered on the IUCN Red List, while the newly-discovered _C. argentum_ is critically endangered and represented by as 
+few as 135 
 remaining individuals (Figure 1).
 
 <div class="row">
