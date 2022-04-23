@@ -21,90 +21,27 @@ R. Graham Reynolds.
 </div>
 
 _Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these species are newly described or recently
-elevated species[^1].
+elevated species[^1]. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
+genetic diversity[^2],[^3],[^4],[^5]. Two species are listed as endangered on the IUCN Red List, while the newly-discovered _C. argentum_ is critically endangered and represented by as few as 135 
+remaining individuals (Figure 1).
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/pdf/IUCN_fig.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <b>Figure 1.</b> IUCN Red List status of the Chilabothrus species analyzed in this study. Made with R.
+</div>
+
+
+
+### References
 
 [^1]: Reynolds RG, Niemiller ML, Hedges SB, Dornburg A, Puente-Rolón AR, Revell LJ. 2013. Molecular phylogeny and historical biogeography of West Indian boid snakes. Mol. 68:461-470.
-
-<d-footnote>Reynolds RG, Niemiller ML, Hedges SB, Dornburg A, Puente-Rolón AR, Revell LJ. 2013. Molecular phylogeny and historical biogeography of West Indian boid snakes. Mol. 
-68:461-470.</d-footnote>. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
-genetic diversity<d-footnote>Reynolds RG, Puente-Rolón AR, Geneva AJ, Aviles-Rodriguez KJ, Herrmann NC. 2016. Discovery of a
-remarkable new boa from the Conception Island Bank, Bahamas. Breviora. 549:1-19.</d-footnote>.
-
-
-
-
-<d-footnote>This will become a hoverable footnote.</d-footnote>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+[^2]: Reynolds RG, Puente-Rolón AR, Geneva AJ, Aviles-Rodriguez KJ, Herrmann NC. 2016. Discovery of a remarkable new boa from the Conception Island Bank, Bahamas. Breviora. 549:1-19.
+[^3]: Reynolds RG, Gerber GP. 2012. Ecology and conservation of the Turks Island boa (Epicrates chrysogaster chrysogaster: Squamata: Boidae) on Big Ambergris Cay. J Herpetol. 46(4):578-586.
+[^4]: Reynolds RG, Puente-Rolón AR, Platenberg R, Tyler RK, Tolson PJ, Revell LJ. 2015. Large divergence and low diversity suggest genetically informed conservation strategies for the endangered 
+Virgin Islands Boa (Chilabothrus monensis) Glob Ecol Conserv. 3:487-502.
+[^5]: Reynolds RG, Henderson RW, Díaz LM, Rodriguez-Cabrera TR, Puente-Rolón AR. In Press. Boas of the West Indies: Evolution, natural history, and conservation. Comstock Publishing Associates, 
+Ithaca, NY.
