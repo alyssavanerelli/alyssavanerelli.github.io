@@ -207,7 +207,7 @@ scholar:
   last_name: Vanerelli
   first_name: [Alyssa, A.]
 
-  style: council-of-science-editors-author-date
+  style: apa
   locale: en
 
   source: /_bibliography/
