@@ -10,8 +10,26 @@ category: past research
 This is the research that I completed for my <i class="fas fa-file"></i> <a class="link" href="{{ '/assets/pdf/thesis_paper.pdf' | prepend: site.baseurl | prepend: site.url 
 }}">undergraduate thesis</a> at UNC Asheville in the [Reynolds Lab](https://reynoldslab.wp.unca.edu/). 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/argentum_pic.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A Conception Bank Silver Boa (<em>Chilabothrus argentum</em>), the world’s most endangered boa. This adult female is one of only 135 adult animals remaining in the entire species. Photograph by 
+R. Graham Reynolds. 
+</div>
+
+_Chilabothrus_ is a completely insular genus of boid snakes occurring throughout the West Indies. The genus is composed of 14 species and nearly half of these species are newly described or recently
+elevated species<d-footnote>Reynolds RG, Niemiller ML, Hedges SB, Dornburg A, Puente-Rolón AR, Revell LJ. 2013. Molecular phylogeny and historical biogeography of West Indian boid snakes. Mol. 
+68:461-470.</d-footnote>. Several species within this genus face serious conservation concerns such as introduced predators, anthropogenic habitat destruction, poaching for the pet trade, and low 
+genetic diversity<d-footnote>Reynolds RG, Puente-Rolón AR, Geneva AJ, Aviles-Rodriguez KJ, Herrmann NC. 2016. Discovery of a
+remarkable new boa from the Conception Island Bank, Bahamas. Breviora. 549:1-19.</d-footnote>.
 
 
+
+
+<d-footnote>This will become a hoverable footnote.</d-footnote>
 
 
 
