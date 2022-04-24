@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Joint Health Sciences Center</p>
     <p>Computational and Integrative Biology</p>
     <p>Rutgers University</p>
 
