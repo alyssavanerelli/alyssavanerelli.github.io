@@ -182,9 +182,12 @@ _click to zoom_
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bullfrog.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/baby_garter_snakes.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 <div class="caption">
-    American Bullfrog.
+    From left to right: American Bullfrog and Garter snakes.
 </div>
 
 <div class="row mt-3">
