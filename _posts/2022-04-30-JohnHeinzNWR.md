@@ -7,9 +7,9 @@ tags: pictures birding herping
 categories: birding herping
 ---
 
-With the hopes of spotting tons of birds, catching snakes, and finding salamanders, we headed to the [John Heinz National Wildlife Rescue](https://www.fws.gov/refuge/john-heinz-tinicum) in 
-Philadelphia, PA. While we weren't able to find any salamanders, even though we flipped almost every rock in the park, we were successful in spotting many other species ranging from birds to herps 
-to mollusks! See our full species list and pictures below!
+With the hopes of spotting tons of birds, catching snakes, and finding salamanders, we headed to the [John Heinz National Wildlife Rescue](https://www.fws.gov/refuge/john-heinz-tinicum) in
+Philadelphia, PA. While we weren't able to find any salamanders, even though we flipped almost every rock in the park, we did find lots of other plant and animal species including Ospreys, 
+Eastern Garter snakes, and Leopard slugs! See our full species list and pictures below!
 
 *** 
 
