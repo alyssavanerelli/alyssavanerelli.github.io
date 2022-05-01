@@ -7,14 +7,14 @@ tags: pictures birding herping
 categories: birding herping
 ---
 
-We took a trip to the [John Heinz National Wildlife Refuge](https://www.fws.gov/refuge/john-heinz-tinicum) this weekend to check out the incredible birding. We had the best time birdwatching, 
-finding snakes, and enjoying the warm weather! Scroll down to see some of the pictures we took!
-
-[eBird Checklist](https://ebird.org/checklist/S108538770)
+With the hopes of spotting tons of birds, catching snakes, and finding salamanders, we headed to the [John Heinz National Wildlife Rescue](https://www.fws.gov/refuge/john-heinz-tinicum) in 
+Philadelphia, PA. While we weren't able to find any salamanders, even though we flipped almost every rock in the park, we were successful in spotting many other species ranging from birds to herps 
+to mollusks! See our full species list and pictures below!
 
 *** 
 
 ## Species List
+[eBird Checklist](https://ebird.org/checklist/S108538770) 
 
 **Birds**
 - **American Crow**: _Corvus brachyrhynchos_
