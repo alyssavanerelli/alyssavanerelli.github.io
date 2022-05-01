@@ -138,11 +138,11 @@ _click to zoom_
         {% include figure.html path="assets/img/black_white_warbler.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/yellow_rumped_warbler.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/goldfinch.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    From left to right: Black-and-white Warbler and Yellow-rumped Warbler.
+    From left to right: Black-and-white Warbler and American Goldfinch.
 </div>
 
 <div class="row mt-3">
