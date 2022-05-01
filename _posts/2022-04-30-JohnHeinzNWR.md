@@ -3,7 +3,7 @@ layout: post
 title: Trip to the John Heinz National Wildlife Refuge
 date: 2022-04-30 21:01:00
 description: Birding trip
-tags: pictures birding herping
+tags: birding herping
 categories: birding herping
 ---
 
