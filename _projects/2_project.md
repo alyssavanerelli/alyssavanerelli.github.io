@@ -16,5 +16,3 @@ category: current research
     <em>Anolis sagrei</em>. Photo from wikipedia.
 </div>
 
-
-description of project
