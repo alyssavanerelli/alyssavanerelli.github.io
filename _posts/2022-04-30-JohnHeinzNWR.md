@@ -74,7 +74,7 @@ to mollusks! See our full species list and pictures below!
 ## Pictures
 _click to zoom_
 
-Birds
+#### Birds
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -138,4 +138,41 @@ Birds
 <div class="caption">
     Gray Catbird.
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/barn_swallow1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Barn Swallow.
+</div>
+
+
+#### Herps
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/garter_snake.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Eastern Garter Snake. Photo by Jody M. Taft.
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bullfrog.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/painted_turtle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    From left to right: American Bullfrog and Painted Turtle.
+</div>
+
+
+#### Fish
 
