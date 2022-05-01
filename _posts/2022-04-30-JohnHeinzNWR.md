@@ -93,6 +93,24 @@ _click to zoom_
         {% include figure.html path="assets/img/osprey.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/osprey2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Osprey.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blue_heron.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Great Blue Heron.
+</div>
+
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/tree_swallow1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -100,7 +118,7 @@ _click to zoom_
     </div>
 </div>
 <div class="caption">
-    From left to right: Osprey, Tree Swallow, Downy Woodpecker.
+    From left to right: Tree Swallow and Downy Woodpecker.
 </div>
 
 <div class="row mt-3">
@@ -160,19 +178,35 @@ _click to zoom_
     Eastern Garter Snake. Photo by Jody M. Taft.
 </div>
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bullfrog.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+    American Bullfrog.
+</div>
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/painted_turtle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/turtle_group.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 <div class="caption">
-    From left to right: American Bullfrog and Painted Turtle.
+    From left to right: Painted Turtle and a group of Red-eared Sliders basking on a log.
 </div>
 
 
 #### Fish
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/snakehead.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Northern Snakehead.
+</div>
