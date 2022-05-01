@@ -7,8 +7,10 @@ tags: pictures birding herping
 categories: birding herping
 ---
 
-We took a trip to the John Heinz National Wildlife Refuge this weekend to check out the incredible birding. We had the best time birdwatching, finding snakes, and enjoying the warm weather! We were 
-on the hunt for salamanders, but were unable to find any. The vast amount of species we did see made up for this though!
+We took a trip to the [John Heinz National Wildlife Refuge](https://www.fws.gov/refuge/john-heinz-tinicum) this weekend to check out the incredible birding. We had the best time birdwatching, 
+finding snakes, and enjoying the warm weather! Scroll down to see some of the pictures we took!
+
+[eBird Checklist](https://ebird.org/checklist/S108538770)
 
 *** 
 
@@ -71,15 +73,19 @@ on the hunt for salamanders, but were unable to find any. The vast amount of spe
 
 ## Pictures
 
-Geneva Lab at Cape May!
+Birds
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cape_may04.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     From left to right: Me, Andrew Ebenezer, Caden Comsa, and Anthony Geneva
 </div>
-
-
