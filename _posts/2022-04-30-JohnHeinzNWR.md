@@ -47,8 +47,8 @@ find lots of other plant and animal species including Ospreys, Eastern Garter sn
 
 **Reptiles**
 - **Eastern Garter Snake**: _Thamnophis sirtalis_
+- **Eastern Painted Turtle**: _Chrysemys picta picta_ 
 - **Red-eared Slider**: _Trachemys scripta_
-- **Painted Turtle**: _Chrysemys picta_
 
 **Amphibians**
 - **American Bullfrog**: _Lithobates catesbeianus_
@@ -199,7 +199,7 @@ _click to zoom_
     </div>
 </div>
 <div class="caption">
-    From left to right: Painted Turtle and a group of Red-eared Sliders basking on a log.
+    From left to right: Eastern Painted Turtle and a group of Red-eared Sliders basking on a log.
 </div>
 
 
