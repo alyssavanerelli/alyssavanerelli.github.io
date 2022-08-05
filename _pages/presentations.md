@@ -8,6 +8,19 @@ commyoutubeId: jY0vLxy5zrY?t=1703
 sprucefiryoutubeId: DD115L9WOVU
 ---
 
+### JMIH Presentation
+_July 2022_
+
+I had such a great time sharing my research on assembling a reference genome for _Anolis grahami_ at [JMIH](https://burkclients.com/JMIH/meetings/2022/site/) this year! This was my first JMIH and it was such a wonderful opportunity to make new friends and hear about 
+really exciting herpetology research.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/JMIH.JPEG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+---
 ### Commencement Speech
 _May 2021_
 
