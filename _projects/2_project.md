@@ -31,7 +31,7 @@ significant differences in morphology.
 </div>
 
 Both of these species arrived to their respective islands from Cuba, and have independently evolved a significantly larger body size than other _A. sagrei_ species. There is also more differentiation between the sexes on these islands (see photo below). Anthony 
-Geneva  used morphological data from _A. luteosignifer_, _A. nelsoni_, "A. s. mayensis_, _A. s. ordinatus_, and _A. s. sagrei_ to make a principle component analysis (Figure 1). 
+Geneva  used morphological data from _A. luteosignifer_, _A. nelsoni_, _A. s. mayensis_, _A. s. ordinatus_, and _A. s. sagrei_ to make a principle component analysis (Figure 1). 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
