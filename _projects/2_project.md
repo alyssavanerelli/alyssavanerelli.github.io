@@ -19,7 +19,7 @@ category: current research
 Anoles are well-known for their ability to convergently evolve to similar environments, e.g. anoles in the Greater Antilles have adapted to similar micro-habitats and have been placed into "ecomorph" classes discribing their behavior, habitat use, and morphology. 
 _Anolis sagrei_ is a trunk-ground anole, which means it is a medium-sized stocky species with long hindlimbs and poorly-developed toepads. They are usually found around 1-1.5 meters above the ground on the tree trunk[^1]. Although on some islands, anoles in the _A. 
 sagrei_ clade don't occupy this niche space and have evolved a different phenotype. _Anolis nelsoni_ from the Swan islands and _Anolis luteosignifer_ from Cayman Brac are both within the _A. sagrei_ clade, occur on islands without competitors, and have evolved 
-significant differences in head and limb lengths. 
+significant differences in morphology.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
