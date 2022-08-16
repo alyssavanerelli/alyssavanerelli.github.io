@@ -6,6 +6,15 @@ description: courses that I have taught.
 nav: true
 ---
 
+### [Rutgers University Camden](https://camden.rutgers.edu/)
+
+#### **General Biology**
+
+_Fall 2022_
+
+This course teaches the principles of biology, including the cellular basis of life, genetics, and evolution. I am a teaching assistant for the laboratory section which covers techniques such as 
+microscopy, dissection, physiological experimentation, and use of the scientific method. 
+
 ### [UNC Asheville](https://www.unca.edu/)
 
 #### **BIOL 210: Principles of Zoology**
