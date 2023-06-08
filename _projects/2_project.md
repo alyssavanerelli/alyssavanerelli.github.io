@@ -16,10 +16,21 @@ category: current research
     <em>Anolis sagrei</em>. Photo from wikipedia.
 </div>
 
-Anoles are well-known for their ability to convergently evolve to similar environments, e.g. anoles in the Greater Antilles have adapted to similar micro-habitats and have been placed into "ecomorph" classes describing their behavior, habitat use, and morphology. 
-_Anolis sagrei_ is a trunk-ground anole, which means it is a medium-sized stocky species with long hindlimbs and poorly-developed toepads. They are usually found around 1-1.5 meters above the ground on the tree trunk[^1]. Although on some islands, anoles in the _A. 
-sagrei_ clade don't occupy this niche space and have evolved a different phenotype. _Anolis nelsoni_ from the Swan islands and _Anolis luteosignifer_ from Cayman Brac are both within the _A. sagrei_ clade, occur on islands without competitors, and have evolved 
-significant differences in morphology.
+Anoles are well-known for their ability to convergently evolve to similar environments, e.g. anoles in the Greater Antilles have adapted to similar micro-habitats and have been placed into "ecomorph" classes describing their behavior, habitat use, and morphology.
+Insular anole species are known to have far fewer competitors than their mainland counterparts, and display higher population densities and broader niches because of ecological release[^2]. 
+_Anolis sagrei_ is a trunk-ground anole, which means it is a medium-sized stocky species with long hindlimbs and poorly-developed toepads. They are usually found around 1-1.5 meters above the ground on the tree trunk[^1]. 
+While most species within this clade conform to this phenotype, some have evolved significant differences in morphology and habitat use.
+_Anolis s. nelsoni_ from the Swan islands and _Anolis s. luteosignifer_ from Cayman Brac both occur on islands without competitors and have evolved these phenotypic differences due to ecological release. 
+Lister (1976) showed that both _A. s. nelsoni_ and _A. s. luteosignifer_ displayed a significant increase in mean perch height and perch height diversity, suggesting that these subspecies utilize perch heights that are commonly used by other competing _Anolis_ 
+species on species-rich islands.
+Not only do these subspecies expand their structural niche in the absence of competing _Anolis_ species, they also show a greater range fo thermal niche usage. Since these lizards are able to occupy niche spaces usually unavailable to them, they exhibit greater 
+variance in temperature than _A. sagrei_ species on islands with other anole species.
+In addition, _A. s. nelsoni_ and _A. s. luteosignifer_ have shown an increase in food niche space, with these subspecies consuming a larger variety of prey sizes[^2].
+Lister also showed that an increase in mean perch height by these solitary anoles was strongly correlated with an increase in mean toe lamellae number. Lamellae are adaptively important for anoles as they allow the lizards to adhere to branches and leaves better. 
+This increase in lamellae number presumably allows these _A. sagrei_ subspecies to expand their niche space upwards into the tree.
+In a comparison between solitary anole species and those occurring with competitors, it was shown that solitary anoles have convergently evolved to have an optimal intermediate head length. They show significantly less variation in head length than the anoles 
+occurring in areas with other species[^3].
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,8 +41,8 @@ significant differences in morphology.
     <em>Anolis sagrei</em> from Conception Bank. Photo by Anthony Geneva.
 </div>
 
-Both of these species arrived to their respective islands from Cuba, and have independently evolved a significantly larger body size than other _A. sagrei_ species. There is also more differentiation between the sexes on these islands (see photo below). Anthony 
-Geneva  used morphological data from _A. luteosignifer_, _A. nelsoni_, _A. s. mayensis_, _A. s. ordinatus_, and _A. s. sagrei_ to make a principle component analysis (Figure 1). 
+There is also more differentiation between the sexes on these islands (see photo below). 
+Anthony Geneva used morphological data from _A. luteosignifer_, _A. nelsoni_, _A. s. mayensis_, _A. s. ordinatus_, and _A. s. sagrei_ to make a principle component analysis (Figure 1).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -53,3 +64,6 @@ Geneva  used morphological data from _A. luteosignifer_, _A. nelsoni_, _A. s. ma
 
 ## References
 [^1]: Losos JB. 2009. Lizards in an Evolutionary Tree: Ecology and Adaptive Radiation of Anoles. Berkeley and Los Angeles (CA): Univeristy of California Press. 507p.
+[^2]: Lister BC. 1976. The Nature of Niche Expansion in West Indian Anolis Lizards I: Ecological Consequences of Reduced Competition. Evolution. 30(4): 659-676.
+[^3]: Lister BC. 1976. The Nature of Niche Expansion in West Indian Anolis Lizards II: Evolutionary Components. Evolution. 30(4): 677-692.
+
