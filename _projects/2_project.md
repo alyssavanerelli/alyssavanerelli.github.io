@@ -1,4 +1,4 @@
----
+k---
 layout: page
 title: evolution of large body size
 description: Investigating the genetic component of large body size evolution in the <em>Anolis sagrei</em> clade
@@ -75,7 +75,7 @@ As indicated by the arrows, _A. s. nelsoni_ is most closely related to _A. s. sa
     </div>
 </div>
 <div class="caption">
-    <b>Figure 2.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. Arrows represent the subspecies that is most closely related to <em>A. nelsoni</em> or <em>A. luteosignifer</em>.
+    <b>Figure 2.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. Arrows represent the subspecies that is most closely related to <em>A. s. nelsoni</em> or <em>A. s. luteosignifer</em>.
 </div>
 
 ## References
