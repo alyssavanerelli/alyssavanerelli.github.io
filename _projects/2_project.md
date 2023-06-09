@@ -54,9 +54,19 @@ This differentiation between the sexes can be seen in the photo below.
     </div>
 </div>
 <div class="caption">
-    A male and female <em>Anolis luteosignifer</em> mating on Cayman Brac. Note how much larger the male is compared to the female. Photo by Anthony Geneva.
+    A male and female <em>Anolis s. luteosignifer</em> mating on Cayman Brac. Note how much larger the male is compared to the female. Photo by Anthony Geneva.
 </div>
 
+
+Genetic and morphological data were collected from 6 species of _Anolis sagrei_ occurring on different islands in the Caribbean (Figure 1). 
+The _A. sagrei_ subspecies in this study are _A. s. nelsoni_, _A. s. luteosignifer_, _A. s. sagrei_, _A. s. ordinatus_, _A s. mayensis_, and _A. s. ophiolepis_.
+
+
+
+
+Using the morphological traits collected, we performed a principal components analysis (Figure 2). 
+The PCA shows that _A. s. nelsoni_ and _A. s. luteosignifer_ are more morphologically similar to each other than they are to their closest relatives. 
+As indicated by the arrows, _A. s. nelsoni_ is most closely related to _A. s. sagrei_ and _A. s. luteosignifer_ is most closely related to _A. s. mayensis_.
 
 
 <div class="row mt-3">
@@ -65,7 +75,7 @@ This differentiation between the sexes can be seen in the photo below.
     </div>
 </div>
 <div class="caption">
-    <b>Figure 1.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. Arrows represent the subspecies that is most closely related to <em>A. nelsoni</em> or <em>A. luteosignifer</em>.
+    <b>Figure 2.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. Arrows represent the subspecies that is most closely related to <em>A. nelsoni</em> or <em>A. luteosignifer</em>.
 </div>
 
 ## References
