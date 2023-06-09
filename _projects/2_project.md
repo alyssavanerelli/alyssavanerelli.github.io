@@ -13,7 +13,7 @@ category: current research
     </div>
 </div>
 <div class="caption">
-    <em>Anolis sagrei</em>. Photo from wikipedia. 
+    <em>Anolis sagrei</em>. Photo from wikipedia.
 </div>
 
 Anoles are well-known for their ability to convergently evolve to similar environments, e.g. anoles in the Greater Antilles have adapted to similar micro-habitats and have been placed into "ecomorph" classes describing their behavior, habitat use, and morphology.
@@ -77,6 +77,12 @@ As indicated by the arrows, _A. s. nelsoni_ is most closely related to _A. s. sa
 <div class="caption">
     <b>Figure 2.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. Arrows represent the subspecies that is most closely related to <em>A. s. nelsoni</em> or <em>A. s. luteosignifer</em>.
 </div>
+
+
+We have performed whole genome resequencing of these lineages to determine whether the same genetic changes underlie the parallel evolution of large body size in _A. s. nelsoni_ and _A. s. luteosignifer_. 
+We are using these genomic data and a recently published reference genome for _A. sagrei_ to perform population genomic analyses to detect regions experiencing recent and recurrent natural selection in each population and then test whether the same regions have 
+independently evolved in large bodied populations.
+
 
 ## References
 [^1]: Losos JB. 2009. Lizards in an Evolutionary Tree: Ecology and Adaptive Radiation of Anoles. Berkeley and Los Angeles (CA): Univeristy of California Press. 507p.
