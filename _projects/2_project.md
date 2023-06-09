@@ -13,7 +13,7 @@ category: current research
     </div>
 </div>
 <div class="caption">
-    <em>Anolis sagrei</em>. Photo from wikipedia.
+    <em>Anolis sagrei</em>. Photo from wikipedia. 
 </div>
 
 Anoles are well-known for their ability to convergently evolve to similar environments, e.g. anoles in the Greater Antilles have adapted to similar micro-habitats and have been placed into "ecomorph" classes describing their behavior, habitat use, and morphology.
