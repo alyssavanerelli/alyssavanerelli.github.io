@@ -63,7 +63,7 @@ The _A. sagrei_ subspecies in this study are _A. s. nelsoni_, _A. s. luteosignif
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/pdf/map.pdf" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/map.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
