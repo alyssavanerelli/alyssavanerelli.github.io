@@ -61,7 +61,14 @@ This differentiation between the sexes can be seen in the photo below.
 Genetic and morphological data were collected from 6 species of _Anolis sagrei_ occurring on different islands in the Caribbean (Figure 1). 
 The _A. sagrei_ subspecies in this study are _A. s. nelsoni_, _A. s. luteosignifer_, _A. s. sagrei_, _A. s. ordinatus_, _A s. mayensis_, and _A. s. ophiolepis_.
 
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/pdf/map.pdf" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    <b>Figure 1.</b> Map of the <em>A. sagrei</em> populations in this study.
+</div>
 
 
 Using the morphological traits collected, we performed a principal components analysis (Figure 2). 
