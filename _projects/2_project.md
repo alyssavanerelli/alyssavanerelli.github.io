@@ -63,7 +63,7 @@ The _A. sagrei_ subspecies in this study are _A. s. nelsoni_, _A. s. luteosignif
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/map.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/map_sagrei.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -73,16 +73,27 @@ The _A. sagrei_ subspecies in this study are _A. s. nelsoni_, _A. s. luteosignif
 
 Using the morphological traits collected, we performed a principal components analysis (Figure 2). 
 The PCA shows that _A. s. nelsoni_ and _A. s. luteosignifer_ are more morphologically similar to each other than they are to their closest relatives. 
-As indicated by the arrows, _A. s. nelsoni_ is most closely related to _A. s. sagrei_ and _A. s. luteosignifer_ is most closely related to _A. s. mayensis_.
+_A. s. nelsoni_ is most closely related to _A. s. mayensis_ and _A. s. luteosignifer_ is most closely related to _A. s. sagrei_. 
+This is indicated below in the comparison of the phylogenetic tree for these subspecies and the euclidian distance plot, which determines which groups are closest to one another in morphospace based on the pca (Figure 3).
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sagrei_pca.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/sagrei_pca_updated.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    <b>Figure 2.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. Arrows represent the subspecies that is most closely related to <em>A. s. nelsoni</em> or <em>A. s. luteosignifer</em>.
+    <b>Figure 2.</b> PCA based on morphological data from 5 <em>A. sagrei</em> populations. 
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/phy_euc.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    <b>Figure 3.</b> Euclidian distance plot based on the PCA in Figure 2.
 </div>
 
 
@@ -95,4 +106,5 @@ independently evolved in large bodied populations.
 [^1]: Losos JB. 2009. Lizards in an Evolutionary Tree: Ecology and Adaptive Radiation of Anoles. Berkeley and Los Angeles (CA): Univeristy of California Press. 507p.
 [^2]: Lister BC. 1976. The Nature of Niche Expansion in West Indian Anolis Lizards I: Ecological Consequences of Reduced Competition. Evolution. 30(4): 659-676.
 [^3]: Lister BC. 1976. The Nature of Niche Expansion in West Indian Anolis Lizards II: Evolutionary Components. Evolution. 30(4): 677-692.
+
 
