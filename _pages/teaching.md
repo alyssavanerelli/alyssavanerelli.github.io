@@ -10,7 +10,7 @@ nav: true
 
 #### **General Biology**
 
-_Fall 2022, Spring 2023_
+_Fall 2022, Spring 2023_ 
 
 This course teaches the principles of biology, including the cellular basis of life, genetics, and evolution. I am a teaching assistant for the laboratory section which covers techniques such as 
 microscopy, dissection, physiological experimentation, and use of the scientific method. 
