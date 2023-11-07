@@ -12,7 +12,7 @@ sprucefiryoutubeId: DD115L9WOVU
 _October 2023_
 
 I presented at my department fall seminar series on my research [assembling the genome for
-_Anolis grahami_}(https://alyssavanerelli.github.io/projects/1_project/). 
+_Anolis grahami_](https://alyssavanerelli.github.io/projects/1_project/). 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
