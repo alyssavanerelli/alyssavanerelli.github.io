@@ -1,6 +1,6 @@
 ---
 layout: page
-title: investigating parallel evolution
+title: parallel evolution
 description: Investigating the genetic component of large body size evolution in the <em>Anolis sagrei</em> clade
 img: assets/img/a_sagrei.jpeg
 importance: 2
