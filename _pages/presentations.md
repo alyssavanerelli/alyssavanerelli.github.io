@@ -11,7 +11,7 @@ sprucefiryoutubeId: DD115L9WOVU
 ### Evolution Meeting
 _July 2024_
 
-I was very excited to share my research at the Evolution meeting in Montreal, Canada this
+I was very excited to share my research at the [Evolution meeting](https://www.evolutionmeetings.org/) in Montreal, Canada this
 year! I presented about testing alternative phylogenetic hypotheses in squamate reptiles 
 and investigating sex chromosome evolution using the _Anolis grahami_ genome assembly. 
 Watch my talk [here](https://youtu.be/BmbtUwcLU4c?si=gGvHcNz0A7K1tIWn&t=798)!
