@@ -6,7 +6,6 @@ description: presentations and speeches that I have given
 nav: true
 commyoutubeId: jY0vLxy5zrY?t=1703
 sprucefiryoutubeId: DD115L9WOVU
-evolutionyoutubeId: BmbtUwcLU4c?
 ---
 
 ### Evolution Meeting
@@ -20,9 +19,6 @@ Watch my talk [here](https://youtu.be/BmbtUwcLU4c?si=gGvHcNz0A7K1tIWn&t=798)!
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/evolution_2024.JPEG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include youtubePlayer.html id=page.evolutionyoutubeId %}
     </div>
 </div>
 
