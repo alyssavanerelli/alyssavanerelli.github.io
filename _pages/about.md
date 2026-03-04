@@ -22,4 +22,4 @@ genomics of _Anolis_ lizards. I received my B.S. in Biology at the University of
 [iNaturalist](https://www.inaturalist.org/people/avanerelli) and [eBird](https://ebird.org/profile/MTg2MzcyOA)!
 
 I am interested in using genomics to understand the evolutionary history of _Anolis_ lizards. My research focuses on answering questions related to adaptation, genome 
-evolution, convergence, and phylogenetics. Check out the [projects page](https://alyssavanerelli.github.io/projects/) to read about my current and past research projects! 
+evolution, convergence, and phylogenetics. Check out the [projects page](https://alyssavanerelli.github.io/projects/) to read about my current and past research projects!
